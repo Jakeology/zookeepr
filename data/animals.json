@@ -126,6 +126,16 @@
         "tired"
       ],
       "id": "12"
+    },
+    {
+      "name": "Sierra",
+      "species": "tiger",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
