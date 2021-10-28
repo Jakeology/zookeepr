@@ -1,0 +1,22 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "A nice zoo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakeology/zookeepr.git"
+  },
+  "author": "Jakeology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jakeology/zookeepr/issues"
+  },
+  "homepage": "https://github.com/Jakeology/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
